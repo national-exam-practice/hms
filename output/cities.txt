@@ -1,2 +1,5 @@
-1 Ruhondoo
-2 Musanze
+1 Ruhondo
+2 Byangabo_Busogo
+3 Kigali
+4 Nyagatare
+5 Karongi
